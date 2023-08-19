@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mani Chandra Teja Gaddam</h1>
+<h1 align="center">Hello World! 👋🙏🌍, I'm Mani Chandra Teja Gaddam</h1>
 <h3 align="center">Full Stack | Backend | Blockchain | Web3 | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macbeth98&label=Profile%20views&color=0e75b6&style=flat" alt="macbeth98" /> </p>
