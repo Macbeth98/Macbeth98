@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macbeth98&label=Profile%20views&color=0e75b6&style=flat" alt="macbeth98" /> </p>
 
-- 🌱 I’m currently learning **Foundry, Solidity, and protocols on Blockchain**
+#- 🌱 I’m currently learning **Foundry, Solidity, and protocols on Blockchain**
 
-- 💬 Ask me about **Node.js, JavaScript, Typescript, Solidity, Backend and Blockchain | Web3**
+- 💬 Ask me about **Java, Node.js, JavaScript, Typescript, Solidity, Backend and Blockchain | Web3**
 
 - 📫 How to reach me **mani.voct@gmail.com**
 
-- ⚡ Fun fact **I am an avid manga reader and a pc gamer.**
+#- ⚡ Fun fact **I am an avid manga reader and a pc gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
