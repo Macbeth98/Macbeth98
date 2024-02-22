@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **Foundry, Solidity, and protocols on Blockchain** -->
 
-- 💬 Ask me about **Java, Node.js, JavaScript, Typescript, Solidity, Backend and Blockchain | Web3**
+- 💬 Ask me about **Java, Go, Node.js, JavaScript, Typescript, Solidity, Backend and Blockchain | Web3**
 
 - 📫 How to reach me **mani.voct@gmail.com**
 
@@ -24,6 +24,9 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://go.dev/images/go-logo-blue.svg" alt="Go" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
