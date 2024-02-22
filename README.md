@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://soliditylang.org/">
     <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="40" height="40" />
