@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **Foundry, Solidity, and protocols on Blockchain** -->
 
-- 💬 Ask me about **Java, Go, Node.js, JavaScript, Typescript, Solidity, Backend and Blockchain | Web3**
+- 💬 Ask me about **Go, Node.js, JavaScript, Typescript, Java, C, Solidity, Backend and Blockchain | Web3**
 
 - 📫 How to reach me **mani.voct@gmail.com**
 
